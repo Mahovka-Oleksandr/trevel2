@@ -2,6 +2,7 @@ body{
     font-size: 15px;
     background-color: yellow;
     justify-content: center ;
+    text-align:center;
 }
 h1{
     text-align: center;
